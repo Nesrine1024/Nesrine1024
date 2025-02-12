@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nesrine1024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nesrine1024&theme=tokyonight_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrine1024&theme=tokyonight_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrine1024&theme=dark&side_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nesrine1024&theme=tokyonight&column=3&margin-w=15&margin-h=15)
