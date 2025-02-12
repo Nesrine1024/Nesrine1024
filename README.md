@@ -11,9 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrine1024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nesrine1024&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nesrine1024&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nesrine1024&theme=tokyonight)
