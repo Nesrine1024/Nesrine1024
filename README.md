@@ -1,5 +1,5 @@
 ## What's up!👾
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nesrine1024&theme=tokyonight)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nesrine1024&theme=dark&hide)
 
 
 ## Socials:
@@ -11,4 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesrine1024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nesrine1024&theme=tokyonight)
+![Nesrine1024's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nesrine1024&show_icons=true&theme=dark&hide)
+
